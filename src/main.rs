@@ -1,5 +1,4 @@
-pub mod error;
-pub mod vm;
+use vmctl::*;
 
 fn main() {
     println!("Hello, world!");
